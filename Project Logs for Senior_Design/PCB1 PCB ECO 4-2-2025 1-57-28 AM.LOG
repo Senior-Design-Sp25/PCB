@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=Disconnect Battery While Charging NewDesignator=SW-Battery-Charging
+Change Net Name : Old Net Name=NetDisconnect Battery While Charging_1 New Net Name=NetLinear-Regulator_3

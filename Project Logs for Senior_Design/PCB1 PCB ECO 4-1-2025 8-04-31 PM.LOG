@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=5V to UART & Battery Charge NewDesignator=SW-5V-to-UART-&-Battery-Charge
+Change Net Name : Old Net Name=Net5V to UART & Battery Charge_1 New Net Name=NetC1_2
+Change Net Name : Old Net Name=Net5V to UART & Battery Charge_2 New Net Name=NetSW-5V-to-UART-&-Battery-Charge_2
+Change Net Name : Old Net Name=Net5V to UART & Battery Charge_4 New Net Name=NetBattery-Charge_1

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Boot-From-Sink NewDesignator=SW-Boot-From-Sink
+Change Component Designator: OldDesignator=Boot-From-Source NewDesignator=SW-Boot-From-Source
+Change Net Name : Old Net Name=NetBoot-From-Sink_5 New Net Name=NetESP-Sink_25
+Change Net Name : Old Net Name=NetBoot-From-Sink_6 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetBoot-From-Source_5 New Net Name=NetESP-Source_25

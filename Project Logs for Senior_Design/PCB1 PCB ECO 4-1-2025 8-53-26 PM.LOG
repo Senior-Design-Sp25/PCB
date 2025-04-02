@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=Battery-Charge-8
+Added Pin To Net: NetName=GND Pin=Battery-Header-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=Disconnect Battery While Charging-2

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=SW-5V-to-UART-&-Battery-Charge NewDesignator=SW-5V/UART/BatChrg
+Change Component Designator: OldDesignator=SW-Boot-From-Sink NewDesignator=SW-Boot-Sink
+Change Component Designator: OldDesignator=SW-Boot-From-Source NewDesignator=SW-Boot-Source
+Change Net Name : Old Net Name=NetSW-5V-to-UART-&-Battery-Charge_2 New Net Name=NetSW-5V/UART/BatChrg_2
